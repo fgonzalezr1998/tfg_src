@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T21:18:28.615Z" agent="5.0 (X11)" etag="mzc4_uvFUEld_kvscFor" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-16T21:21:39.422Z" agent="5.0 (X11)" etag="G163E-7A3o72W4epZ_-5" version="20.4.1" type="github">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
     <mxGraphModel dx="1481" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -51,6 +51,21 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wh_mnypxBvbwWqtOzrPA-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=#E0E0E0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="122" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wh_mnypxBvbwWqtOzrPA-18" value="output" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="730" y="171.5" as="sourcePoint" />
+            <mxPoint x="810" y="171.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wh_mnypxBvbwWqtOzrPA-19" value="&lt;div&gt;Marker Array&lt;/div&gt;&lt;div&gt;(Debugging)&lt;br&gt;&lt;/div&gt;" style="html=1;fillColor=#E0E0E0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="100" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wh_mnypxBvbwWqtOzrPA-20" value="3D Bounding Boxes" style="html=1;fillColor=#E0E0E0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="200" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
