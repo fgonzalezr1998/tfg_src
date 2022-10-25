@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T10:32:20.048Z" agent="5.0 (X11)" etag="GmsqpcaQ7W5kIcEUw3Lm" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T10:34:41.044Z" agent="5.0 (X11)" etag="F0hh0jeEWQ3W7FRwFqRF" version="20.4.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2219" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,6 +80,15 @@
         </mxCell>
         <mxCell id="816tmAHv5r7IAD_qv0HO-22" value="darknet_ros_msgs/BoundingBoxes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="816tmAHv5r7IAD_qv0HO-21">
           <mxGeometry x="-5" y="30" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="816tmAHv5r7IAD_qv0HO-24" value="Darknet ROS 3D Node" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#FFB366;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="430" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="816tmAHv5r7IAD_qv0HO-25" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.542;exitY=1.067;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="816tmAHv5r7IAD_qv0HO-13" target="816tmAHv5r7IAD_qv0HO-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="530" as="sourcePoint" />
+            <mxPoint x="505" y="520" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
