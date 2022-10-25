@@ -1,20 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T10:15:00.199Z" agent="5.0 (X11)" etag="LJHm0M0rCl-44ki0aTOa" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T10:19:32.033Z" agent="5.0 (X11)" etag="57VjP0QIuWIxz7g6hCEF" version="20.4.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2219" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="816tmAHv5r7IAD_qv0HO-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#66B2FF;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="40" width="290" height="230" as="geometry" />
+          <mxGeometry x="-210" y="120" width="290" height="230" as="geometry" />
         </mxCell>
         <mxCell id="816tmAHv5r7IAD_qv0HO-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Camera Driver&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-127.5" y="50" width="125" height="30" as="geometry" />
+          <mxGeometry x="-127.5" y="130" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="816tmAHv5r7IAD_qv0HO-3" value="&lt;div&gt;RGB Node&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#FFB366;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-125" y="90" width="120" height="80" as="geometry" />
+          <mxGeometry x="-125" y="170" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="816tmAHv5r7IAD_qv0HO-4" value="&lt;div&gt;Depth Node&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#FFB366;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-125" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="-125" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="816tmAHv5r7IAD_qv0HO-7" value="sensor_msgs/Image" style="swimlane;strokeColor=#66B2FF;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="130" y="150" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="816tmAHv5r7IAD_qv0HO-9" value="/camera/rgb/image" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="816tmAHv5r7IAD_qv0HO-7">
+          <mxGeometry x="30" y="30" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
