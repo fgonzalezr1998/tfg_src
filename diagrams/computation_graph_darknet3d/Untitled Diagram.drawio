@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T11:02:19.705Z" agent="5.0 (X11)" etag="h93D2slyOle2X5yjPaI0" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T11:04:06.325Z" agent="5.0 (X11)" etag="QWqmVjZcL7ojS2LabELg" version="20.4.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2219" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,7 +67,10 @@
           <mxGeometry x="17" y="30" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="816tmAHv5r7IAD_qv0HO-26" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3333;strokeWidth=2;fontSize=14;fillColor=none;dashed=1;" vertex="1" parent="816tmAHv5r7IAD_qv0HO-21">
-          <mxGeometry x="-170" y="-55" width="470" height="170" as="geometry" />
+          <mxGeometry x="-170" y="-55" width="150" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="816tmAHv5r7IAD_qv0HO-27" value="&lt;b&gt;Darknet ROS Subsystem&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=2;fontSize=14;" vertex="1" parent="816tmAHv5r7IAD_qv0HO-21">
+          <mxGeometry x="-155" y="80" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="816tmAHv5r7IAD_qv0HO-24" value="Darknet ROS 3D Node" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#FFB366;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="460" y="610" width="120" height="80" as="geometry" />
@@ -94,9 +97,6 @@
             <mxPoint x="560" y="640" as="sourcePoint" />
             <mxPoint x="610" y="590" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="816tmAHv5r7IAD_qv0HO-27" value="&lt;b&gt;Darknet ROS Subsystem&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="140" y="690" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="816tmAHv5r7IAD_qv0HO-32" value="/darknet_ros_3d/markers" style="swimlane;strokeColor=#9933FF;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="640" y="680" width="280" height="60" as="geometry">
