@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="graph_example" type="pub_node" name="pub_node" output="screen" />
+  <node pkg="graph_example" type="sub1_node" name="sub1_node" output="screen" />
+  <node pkg="graph_example" type="sub2_node" name="sub2_node" output="screen" />
+</launch>
