@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T11:04:06.325Z" agent="5.0 (X11)" etag="QWqmVjZcL7ojS2LabELg" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T11:04:38.322Z" agent="5.0 (X11)" etag="e6heqhIKglWCsG0dW1jJ" version="20.4.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2219" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
         </mxCell>
         <mxCell id="816tmAHv5r7IAD_qv0HO-28" value="/darknet_ros_3d/bounding_boxes" style="swimlane;strokeColor=#9933FF;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="640" y="560" width="310" height="60" as="geometry">
-            <mxRectangle x="250" y="140" width="180" height="30" as="alternateBounds" />
+            <mxRectangle x="640" y="560" width="180" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="816tmAHv5r7IAD_qv0HO-29" value="gb_visual_detection_msgs/BoundingBoxes3d" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="816tmAHv5r7IAD_qv0HO-28">
