@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T11:00:10.620Z" agent="5.0 (X11)" etag="PTwQ1j9nEUuVDa5XZ5vW" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T11:02:19.705Z" agent="5.0 (X11)" etag="h93D2slyOle2X5yjPaI0" version="20.4.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2219" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,21 +11,6 @@
         </mxCell>
         <mxCell id="816tmAHv5r7IAD_qv0HO-9" value="sensor_msgs/Image" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="816tmAHv5r7IAD_qv0HO-7">
           <mxGeometry x="25" y="30" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="816tmAHv5r7IAD_qv0HO-10" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="100" y="60" width="290" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="816tmAHv5r7IAD_qv0HO-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#66B2FF;strokeWidth=2;" vertex="1" parent="816tmAHv5r7IAD_qv0HO-10">
-          <mxGeometry x="10" width="290" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="816tmAHv5r7IAD_qv0HO-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Camera Driver Subsystem&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="816tmAHv5r7IAD_qv0HO-10">
-          <mxGeometry x="92.5" y="180" width="125" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="816tmAHv5r7IAD_qv0HO-3" value="&lt;div&gt;RGB Node&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#FFB366;strokeWidth=2;" vertex="1" parent="816tmAHv5r7IAD_qv0HO-10">
-          <mxGeometry x="20" y="75" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="816tmAHv5r7IAD_qv0HO-4" value="&lt;div&gt;Depth Node&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#FFB366;strokeWidth=2;" vertex="1" parent="816tmAHv5r7IAD_qv0HO-10">
-          <mxGeometry x="170" y="75" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="816tmAHv5r7IAD_qv0HO-11" value="Darknet ROS Node" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#FFB366;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-20" y="610" width="120" height="80" as="geometry" />
@@ -132,6 +117,18 @@
         </mxCell>
         <mxCell id="816tmAHv5r7IAD_qv0HO-35" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3333;strokeWidth=2;fontSize=14;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="445" y="565" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="816tmAHv5r7IAD_qv0HO-37" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF3333;strokeWidth=2;fontSize=14;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="110" width="300" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="816tmAHv5r7IAD_qv0HO-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Camera Driver Subsystem&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="192.5" y="240" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="816tmAHv5r7IAD_qv0HO-3" value="&lt;div&gt;RGB Node&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#FFB366;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="120" y="135" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="816tmAHv5r7IAD_qv0HO-4" value="&lt;div&gt;Depth Node&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#FFB366;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="135" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
