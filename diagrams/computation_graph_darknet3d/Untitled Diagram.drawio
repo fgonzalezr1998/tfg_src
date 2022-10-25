@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T10:26:37.513Z" agent="5.0 (X11)" etag="fRhZxG7eDTYRr_k6rDvR" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T10:32:20.048Z" agent="5.0 (X11)" etag="GmsqpcaQ7W5kIcEUw3Lm" version="20.4.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2219" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,11 +27,11 @@
         <mxCell id="816tmAHv5r7IAD_qv0HO-4" value="&lt;div&gt;Depth Node&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#FFB366;strokeWidth=2;" vertex="1" parent="816tmAHv5r7IAD_qv0HO-10">
           <mxGeometry x="170" y="75" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="816tmAHv5r7IAD_qv0HO-11" value="&lt;div&gt;RGB Node&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#FFB366;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="470" y="600" width="120" height="80" as="geometry" />
+        <mxCell id="816tmAHv5r7IAD_qv0HO-11" value="Darknet ROS Node" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#FFB366;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="610" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="816tmAHv5r7IAD_qv0HO-12" value="/camera/depth/points" style="swimlane;strokeColor=#9933FF;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="370" y="410" width="200" height="60" as="geometry">
+          <mxGeometry x="380" y="410" width="200" height="60" as="geometry">
             <mxRectangle x="250" y="140" width="180" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -42,7 +42,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="330" y="360" />
-              <mxPoint x="470" y="360" />
+              <mxPoint x="480" y="360" />
+              <mxPoint x="480" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -54,6 +55,31 @@
               <mxPoint x="40" y="360" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="816tmAHv5r7IAD_qv0HO-19" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="816tmAHv5r7IAD_qv0HO-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="650" as="sourcePoint" />
+            <mxPoint x="150" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="816tmAHv5r7IAD_qv0HO-20" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;exitX=0.507;exitY=1.067;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="816tmAHv5r7IAD_qv0HO-9" target="816tmAHv5r7IAD_qv0HO-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="570" as="sourcePoint" />
+            <mxPoint x="160" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="816tmAHv5r7IAD_qv0HO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="816tmAHv5r7IAD_qv0HO-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="816tmAHv5r7IAD_qv0HO-21" value="/darknet_ros/bounding_boxes" style="swimlane;strokeColor=#9933FF;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="150" y="620" width="235" height="60" as="geometry">
+            <mxRectangle x="250" y="140" width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="816tmAHv5r7IAD_qv0HO-22" value="darknet_ros_msgs/BoundingBoxes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="816tmAHv5r7IAD_qv0HO-21">
+          <mxGeometry x="-5" y="30" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
