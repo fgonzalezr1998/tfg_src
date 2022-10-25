@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T11:19:38.347Z" agent="5.0 (X11)" etag="7x9E4XffmAp_AO7aEQMk" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T11:20:13.555Z" agent="5.0 (X11)" etag="QpjAapn27yOw5ulCXNzX" version="20.4.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2219" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -144,10 +144,10 @@
         <mxCell id="816tmAHv5r7IAD_qv0HO-51" value="Topic" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="750" y="137.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="816tmAHv5r7IAD_qv0HO-52" value="Nodo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="816tmAHv5r7IAD_qv0HO-52" value="Node" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="750" y="210" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="816tmAHv5r7IAD_qv0HO-53" value="Subsistema" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="816tmAHv5r7IAD_qv0HO-53" value="Subsystem" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="750" y="300" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
