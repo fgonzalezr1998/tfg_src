@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-21T20:17:10.760Z" agent="5.0 (X11)" etag="2X6foE4_a8FZc3_t5AxV" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-21T20:17:20.923Z" agent="5.0 (X11)" etag="jY5QkMDT0-efzTb0Zdpd" version="20.5.1" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1551" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -9,11 +9,6 @@
         </mxCell>
         <mxCell id="39150e848f15840c-10" value="darknet3d_node" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="460" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="39150e848f15840c-11" style="edgeStyle=none;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=8;endArrow=open;endFill=0;endSize=16;fontFamily=Verdana;fontSize=12;" parent="1" source="39150e848f15840c-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="375.01718089779115" y="248.65031189274305" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="BBhAvPuGcrNtLJr1Vsa3-3" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="140" y="70" width="330" height="220" as="geometry" />
