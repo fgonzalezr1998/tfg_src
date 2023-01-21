@@ -1,16 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-01-21T20:20:01.869Z" agent="5.0 (X11)" etag="SmF2SZQZ6JXW3pFloHUy" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-21T20:24:21.704Z" agent="5.0 (X11)" etag="OdVu_5Y8w7KQ_LK5G8fX" version="20.5.1" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1551" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="39150e848f15840c-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Main&lt;/font&gt;&lt;/b&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="370" y="410" width="260" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="39150e848f15840c-10" value="darknet3d_node" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="460" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BBhAvPuGcrNtLJr1Vsa3-3" value="" style="group;perimeter=rectanglePerimeter;" vertex="1" connectable="0" parent="1">
+        <mxCell id="BBhAvPuGcrNtLJr1Vsa3-3" value="" style="group;perimeter=rectanglePerimeter;glass=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="140" y="70" width="330" height="220" as="geometry" />
         </mxCell>
         <mxCell id="39150e848f15840c-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Darknet3D&lt;/font&gt;&lt;/b&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="BBhAvPuGcrNtLJr1Vsa3-3" vertex="1">
@@ -30,6 +24,18 @@
         </mxCell>
         <mxCell id="BBhAvPuGcrNtLJr1Vsa3-1" value="Darknet3D.h" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" vertex="1" parent="BBhAvPuGcrNtLJr1Vsa3-3">
           <mxGeometry x="20" y="60" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BBhAvPuGcrNtLJr1Vsa3-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="370" y="410" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="39150e848f15840c-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Main&lt;/font&gt;&lt;/b&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="BBhAvPuGcrNtLJr1Vsa3-5" vertex="1">
+          <mxGeometry width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="39150e848f15840c-10" value="darknet3d_node" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" parent="BBhAvPuGcrNtLJr1Vsa3-5" vertex="1">
+          <mxGeometry x="70" y="50" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BBhAvPuGcrNtLJr1Vsa3-4" value="10 Hz" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;glass=0;fontSize=14;fillColor=none;gradientColor=none;" vertex="1" parent="BBhAvPuGcrNtLJr1Vsa3-5">
+          <mxGeometry x="10" y="45" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
