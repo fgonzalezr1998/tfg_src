@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T20:05:57.982Z" agent="5.0 (X11)" etag="YEQ-EhiWs3JfGB_aTOxP" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T20:08:03.568Z" agent="5.0 (X11)" etag="6IerlaIHgm1hukmAXOyJ" version="20.8.20" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1273" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,10 +31,10 @@
             <mxPoint x="174.5" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VxPAGHwxYElk41PXbdFz-10" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;ROS Driver&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VxPAGHwxYElk41PXbdFz-10" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Other ROS Nodes&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="410" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VxPAGHwxYElk41PXbdFz-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VxPAGHwxYElk41PXbdFz-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Darknet ROS 3D&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="410" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VxPAGHwxYElk41PXbdFz-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
@@ -42,6 +42,9 @@
             <mxPoint x="390" y="550" as="sourcePoint" />
             <mxPoint x="390" y="510" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VxPAGHwxYElk41PXbdFz-13" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Darknet ROS&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="410" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
